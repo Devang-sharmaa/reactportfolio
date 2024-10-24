@@ -11,7 +11,7 @@ const Home = () => {
       strings: [
         "Welcome to my profile",
         "I'm Devang Sharma",
-        "I'm a frontend developer",
+        "I'm frontend developer",
       ],
       typeSpeed: 50,       // Slightly faster typing speed
       backSpeed: 30,       // Slightly faster backspace speed
