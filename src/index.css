@@ -335,7 +335,22 @@ h1, h2, h3 {
     width: 100%;
     padding: 20px;
   }
+
+  /* Adjust paragraph styles */
+  .ex-items p {
+    width: 100%; /* Make paragraphs take full width */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove any default padding */
+    line-height: 1.2; /* Adjust line height for better spacing */
+    box-sizing: border-box; /* Include padding and border in width */
+  }
+
+  /* Reduce spacing between paragraphs */
+  .ex-items p + p {
+    margin-top: 5px; /* Add a smaller margin between paragraphs */
+  }
 }
+
 
 /* Skills Section */
 .skills {
