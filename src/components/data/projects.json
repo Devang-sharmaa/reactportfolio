@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "title": "Credit Card Fraud Detection",
+    "imageSrc": "https://miro.medium.com/max/739/1*TsEsvIxRRQ8mFpebJXRpXg.png",
+    "description": "This is a project made with Machine learning in python.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Devang-sharmaa/Credit_card_fraud_detection.git"
+  },
+  {
+    "id": 2,
+    "title": "Parkinson Disease detection",
+    "imageSrc": "https://www.healthcheckup.com/wp-content/uploads/2016/12/Parkinsons-Disease.jpg",
+    "description": "This is a project made with Machine learning in python.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Devang-sharmaa/Parkinson-disease.git"
+  },
+  {
+    "id": 3,
+    "title": "3D Portfolio Template",
+    "imageSrc": "https://th.bing.com/th/id/OIP.v7B7ifo0yAp1i33M9tdhggHaE8?w=278&h=185&c=7&r=0&o=5&dpr=1.3&pid=1.7.jpg",
+    "description": "This is a portfolio template made with complete React js and Threejs.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Devang-sharmaa/devang-portfolio"
+  },
+  {
+    "id": 4,
+    "title": "Anime Searcher",
+    "imageSrc": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/3b/50/c7/3b50c71f-13f1-208b-4333-04e5b609ec12/source/512x512bb.jpg",
+    "description": "This is a minor level project made with complete Python and Tkinter.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Devang-sharmaa/Anime-searcher.git"
+  },
+  {
+  "id": 5,
+  "title": "Ongoing project",
+  "imageSrc": "https://th.bing.com/th/id/OIP.5sa16wMqzb2m9XokLbCI_wHaHH?w=171&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7.jpg",
+  "description": "This is an ongoing project, and we appreciate your patience..",
+  "demo": "https://www.example.com",
+  "source": "https://www.example.com"
+}
+]
+
