@@ -377,39 +377,13 @@ h1, h2, h3 {
   border: 1px solid rgb(79, 210, 230);
   box-shadow: var(--box-shadow);
   color: var(--text-color);
-  position: relative; /* Added for pseudo-elements */
-  overflow: hidden; /* Added to prevent overflow of pseudo-elements */
-  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition */
-}
-
-/* Hover effect */
-.skills .items .item:hover {
-  transform: scale(1.05) rotate(2deg); /* Slightly scale and rotate */
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); /* Enhanced shadow */
-}
-
-/* Pseudo-element for a glowing effect */
-.skills .items .item::after {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  border-radius: 10px;
-  /* background: rgba(79, 210, 230, 0.5); Glowing background color */
-  opacity: 0; /* Initially hidden */
-  transition: opacity 0.5s ease; /* Smooth transition */
-}
-
-.skills .items .item:hover::after {
-  opacity: 0.1; /* Show on hover */
 }
 
 body.light .skills .items .item {
   background-color: rgb(236, 231, 231);
   color: rgb(130, 57, 57) !important;
 }
+
 
 .skills .items .item img {
   width: 70px;
